@@ -10,3 +10,4 @@ https://boost-ext.github.io/sml/overview.html
 
 
 Link to IMAV repo- https://github.com/AerialRobotics-IITK/imav2019
+![Shastra_FSM drawio2](https://user-images.githubusercontent.com/98644005/204562035-e99cf76d-5e94-4e12-a005-97d5669a62ac.png)
